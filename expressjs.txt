@@ -1,0 +1,9 @@
+Intro : - Express js is web framework of Node JS designed for facilating the creation of web applications and Restful APIs. 
+Key features  - Middleware, routings, plugins and extensibility
+Why use express ? - scalable simplicity and fexibility
+Express Set up - install npm and nodejs. npm init  - creates a package.json containing all the dependcies and metadata
+                npm install express
+                create the server file (1. importing express, 2. initialising express, and 3.&4. define the port and listen the server)
+                run the server file - node server.js 
+                for automatic restart meaning whenever you make changes that reflects then we can use nodemon server.js (Install nodemon first)
+                Nodemon is a development tool which automatically restarts the NodeJS application when it detects any changes.
